@@ -141,7 +141,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql', # engine: mysql
         'NAME' : 'festivalDB', # DB Name
         'USER' : 'admin', # DB User
-        'PASSWORD' : 'dwufestival2024', # Password
+        'PASSWORD' : secrets['DB_PASSWORD'], # Password
         'HOST': 'festivaldb.cr2u24qegu68.ap-northeast-2.rds.amazonaws.com',
         'PORT': '3306', # 데이터베이스 포트
         'OPTIONS':{
