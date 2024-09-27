@@ -1,0 +1,191 @@
+[
+{
+    "model": "booths.menugroup",
+    "pk": 1,
+    "fields": {
+        "name": "default",
+        "price": null,
+        "booth": 1
+    }
+},
+{
+    "model": "booths.menugroup",
+    "pk": 2,
+    "fields": {
+        "name": "오로라 SET",
+        "price": "12,000원",
+        "booth": 2
+    }
+},
+{
+    "model": "booths.menugroup",
+    "pk": 3,
+    "fields": {
+        "name": "단품",
+        "price": null,
+        "booth": 2
+    }
+},
+{
+    "model": "booths.menugroup",
+    "pk": 4,
+    "fields": {
+        "name": "안주",
+        "price": null,
+        "booth": 3
+    }
+},
+{
+    "model": "booths.menugroup",
+    "pk": 5,
+    "fields": {
+        "name": "음료",
+        "price": null,
+        "booth": 3
+    }
+},
+{
+    "model": "booths.menugroup",
+    "pk": 6,
+    "fields": {
+        "name": "탕 : 돌쇠의 뜨거운 국물",
+        "price": null,
+        "booth": 4
+    }
+},
+{
+    "model": "booths.menugroup",
+    "pk": 7,
+    "fields": {
+        "name": "과일안주 : 마님을 위해 돌쇠가 산에서 따다 온 과일들",
+        "price": null,
+        "booth": 4
+    }
+},
+{
+    "model": "booths.menugroup",
+    "pk": 8,
+    "fields": {
+        "name": "볶음안주 : 마님과 지지고 볶고",
+        "price": null,
+        "booth": 4
+    }
+},
+{
+    "model": "booths.menugroup",
+    "pk": 9,
+    "fields": {
+        "name": "마른안주 : 마님 몰래 내 입에 쏘옥",
+        "price": null,
+        "booth": 4
+    }
+},
+{
+    "model": "booths.menugroup",
+    "pk": 10,
+    "fields": {
+        "name": "메인",
+        "price": null,
+        "booth": 5
+    }
+},
+{
+    "model": "booths.menugroup",
+    "pk": 11,
+    "fields": {
+        "name": "음료",
+        "price": null,
+        "booth": 5
+    }
+},
+{
+    "model": "booths.menugroup",
+    "pk": 12,
+    "fields": {
+        "name": "안주",
+        "price": null,
+        "booth": 6
+    }
+},
+{
+    "model": "booths.menugroup",
+    "pk": 13,
+    "fields": {
+        "name": "default",
+        "price": null,
+        "booth": 7
+    }
+},
+{
+    "model": "booths.menugroup",
+    "pk": 14,
+    "fields": {
+        "name": "메인메뉴",
+        "price": null,
+        "booth": 8
+    }
+},
+{
+    "model": "booths.menugroup",
+    "pk": 15,
+    "fields": {
+        "name": "디저트",
+        "price": null,
+        "booth": 8
+    }
+},
+{
+    "model": "booths.menugroup",
+    "pk": 16,
+    "fields": {
+        "name": "default",
+        "price": null,
+        "booth": 40
+    }
+},
+{
+    "model": "booths.menugroup",
+    "pk": 17,
+    "fields": {
+        "name": "default",
+        "price": null,
+        "booth": 41
+    }
+},
+{
+    "model": "booths.menugroup",
+    "pk": 18,
+    "fields": {
+        "name": "default",
+        "price": null,
+        "booth": 42
+    }
+},
+{
+    "model": "booths.menugroup",
+    "pk": 19,
+    "fields": {
+        "name": "default",
+        "price": null,
+        "booth": 43
+    }
+},
+{
+    "model": "booths.menugroup",
+    "pk": 20,
+    "fields": {
+        "name": "default",
+        "price": null,
+        "booth": 44
+    }
+},
+{
+    "model": "booths.menugroup",
+    "pk": 21,
+    "fields": {
+        "name": "default",
+        "price": null,
+        "booth": 45
+    }
+}
+]

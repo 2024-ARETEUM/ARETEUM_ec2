@@ -1,0 +1,677 @@
+[
+{
+    "model": "booths.food",
+    "pk": 1,
+    "fields": {
+        "name": "오뎅탕",
+        "price": "6,000원",
+        "menu_group": 1
+    }
+},
+{
+    "model": "booths.food",
+    "pk": 2,
+    "fields": {
+        "name": "김치전",
+        "price": "5,000원",
+        "menu_group": 1
+    }
+},
+{
+    "model": "booths.food",
+    "pk": 3,
+    "fields": {
+        "name": "교자만두",
+        "price": "5,000원",
+        "menu_group": 1
+    }
+},
+{
+    "model": "booths.food",
+    "pk": 4,
+    "fields": {
+        "name": "꿀토마토&치즈",
+        "price": "6,000원",
+        "menu_group": 1
+    }
+},
+{
+    "model": "booths.food",
+    "pk": 5,
+    "fields": {
+        "name": "감자탕 컵라면",
+        "price": "3,000원",
+        "menu_group": 1
+    }
+},
+{
+    "model": "booths.food",
+    "pk": 6,
+    "fields": {
+        "name": "과자+소주(증정)",
+        "price": "3,000원",
+        "menu_group": 1
+    }
+},
+{
+    "model": "booths.food",
+    "pk": 7,
+    "fields": {
+        "name": "과자+하이볼(증정)",
+        "price": "4,000원",
+        "menu_group": 1
+    }
+},
+{
+    "model": "booths.food",
+    "pk": 8,
+    "fields": {
+        "name": "오코노미야끼",
+        "price": null,
+        "menu_group": 2
+    }
+},
+{
+    "model": "booths.food",
+    "pk": 9,
+    "fields": {
+        "name": "로스트치킨(윙/봉)",
+        "price": null,
+        "menu_group": 2
+    }
+},
+{
+    "model": "booths.food",
+    "pk": 10,
+    "fields": {
+        "name": "라면",
+        "price": null,
+        "menu_group": 2
+    }
+},
+{
+    "model": "booths.food",
+    "pk": 11,
+    "fields": {
+        "name": "오코노미야끼",
+        "price": "5,000원",
+        "menu_group": 3
+    }
+},
+{
+    "model": "booths.food",
+    "pk": 12,
+    "fields": {
+        "name": "로스트치킨(윙/봉)",
+        "price": "6,000원",
+        "menu_group": 3
+    }
+},
+{
+    "model": "booths.food",
+    "pk": 13,
+    "fields": {
+        "name": "라면",
+        "price": "3,000원",
+        "menu_group": 3
+    }
+},
+{
+    "model": "booths.food",
+    "pk": 14,
+    "fields": {
+        "name": "달달황도",
+        "price": "4,000원",
+        "menu_group": 3
+    }
+},
+{
+    "model": "booths.food",
+    "pk": 15,
+    "fields": {
+        "name": "마른안주세트",
+        "price": "6,000원",
+        "menu_group": 3
+    }
+},
+{
+    "model": "booths.food",
+    "pk": 16,
+    "fields": {
+        "name": "마님의 오뎅탕",
+        "price": "5,000원",
+        "menu_group": 4
+    }
+},
+{
+    "model": "booths.food",
+    "pk": 17,
+    "fields": {
+        "name": "돌쇠의 콘치즈",
+        "price": "8,000원",
+        "menu_group": 4
+    }
+},
+{
+    "model": "booths.food",
+    "pk": 18,
+    "fields": {
+        "name": "대감마님의 두부김치",
+        "price": "6,000원",
+        "menu_group": 4
+    }
+},
+{
+    "model": "booths.food",
+    "pk": 19,
+    "fields": {
+        "name": "아씨의 감자튀김",
+        "price": "6,000원",
+        "menu_group": 4
+    }
+},
+{
+    "model": "booths.food",
+    "pk": 20,
+    "fields": {
+        "name": "행랑아범 최애 컵라면",
+        "price": "3,000원",
+        "menu_group": 4
+    }
+},
+{
+    "model": "booths.food",
+    "pk": 21,
+    "fields": {
+        "name": "기본 : 베이스 + 토닉워터",
+        "price": "3,000원",
+        "menu_group": 5
+    }
+},
+{
+    "model": "booths.food",
+    "pk": 22,
+    "fields": {
+        "name": "알콜추가",
+        "price": "무료",
+        "menu_group": 5
+    }
+},
+{
+    "model": "booths.food",
+    "pk": 23,
+    "fields": {
+        "name": "순두부 열라면",
+        "price": "3,500원",
+        "menu_group": 6
+    }
+},
+{
+    "model": "booths.food",
+    "pk": 24,
+    "fields": {
+        "name": "과일꼬치 3개\n: 방울토마토 • 바나나 • 파인애플 • 청포도",
+        "price": "4,000원",
+        "menu_group": 7
+    }
+},
+{
+    "model": "booths.food",
+    "pk": 25,
+    "fields": {
+        "name": "소세지볶음",
+        "price": "3,000원",
+        "menu_group": 8
+    }
+},
+{
+    "model": "booths.food",
+    "pk": 26,
+    "fields": {
+        "name": "치즈감자전",
+        "price": "3,000원",
+        "menu_group": 8
+    }
+},
+{
+    "model": "booths.food",
+    "pk": 27,
+    "fields": {
+        "name": "명란 계란말이 3국자 6등분",
+        "price": "4,000원",
+        "menu_group": 8
+    }
+},
+{
+    "model": "booths.food",
+    "pk": 28,
+    "fields": {
+        "name": "버터구이 오징어",
+        "price": "3,000원",
+        "menu_group": 9
+    }
+},
+{
+    "model": "booths.food",
+    "pk": 29,
+    "fields": {
+        "name": "쥐포 2장",
+        "price": "2,000원",
+        "menu_group": 9
+    }
+},
+{
+    "model": "booths.food",
+    "pk": 30,
+    "fields": {
+        "name": "불닭계란치즈",
+        "price": "5,000원",
+        "menu_group": 10
+    }
+},
+{
+    "model": "booths.food",
+    "pk": 31,
+    "fields": {
+        "name": "나쵸",
+        "price": "5,000원",
+        "menu_group": 10
+    }
+},
+{
+    "model": "booths.food",
+    "pk": 32,
+    "fields": {
+        "name": "설토",
+        "price": "4,000원",
+        "menu_group": 10
+    }
+},
+{
+    "model": "booths.food",
+    "pk": 33,
+    "fields": {
+        "name": "두부김치",
+        "price": "6,000원",
+        "menu_group": 10
+    }
+},
+{
+    "model": "booths.food",
+    "pk": 34,
+    "fields": {
+        "name": "사이다 폭발 화채",
+        "price": "6,000원",
+        "menu_group": 10
+    }
+},
+{
+    "model": "booths.food",
+    "pk": 35,
+    "fields": {
+        "name": "리튬 : 체리",
+        "price": "무료",
+        "menu_group": 11
+    }
+},
+{
+    "model": "booths.food",
+    "pk": 36,
+    "fields": {
+        "name": "칼슘 : 오렌지",
+        "price": "무료",
+        "menu_group": 11
+    }
+},
+{
+    "model": "booths.food",
+    "pk": 37,
+    "fields": {
+        "name": "나트륨 : 레몬",
+        "price": "무료",
+        "menu_group": 11
+    }
+},
+{
+    "model": "booths.food",
+    "pk": 38,
+    "fields": {
+        "name": "바륨 : 청포도",
+        "price": "무료",
+        "menu_group": 11
+    }
+},
+{
+    "model": "booths.food",
+    "pk": 39,
+    "fields": {
+        "name": "어묵국 (1인분)",
+        "price": "5,000원",
+        "menu_group": 12
+    }
+},
+{
+    "model": "booths.food",
+    "pk": 40,
+    "fields": {
+        "name": "어묵꼬치 (1개)",
+        "price": "1,500원",
+        "menu_group": 12
+    }
+},
+{
+    "model": "booths.food",
+    "pk": 41,
+    "fields": {
+        "name": "떡볶이 (1인분)",
+        "price": "5,000원",
+        "menu_group": 12
+    }
+},
+{
+    "model": "booths.food",
+    "pk": 42,
+    "fields": {
+        "name": "꼬치\n: 소시지, 소떡소떡, 떡꼬치 (개당)",
+        "price": "3,000원",
+        "menu_group": 12
+    }
+},
+{
+    "model": "booths.food",
+    "pk": 43,
+    "fields": {
+        "name": "김치전 (1장)",
+        "price": "3,000원",
+        "menu_group": 12
+    }
+},
+{
+    "model": "booths.food",
+    "pk": 44,
+    "fields": {
+        "name": "카나페 (크래커, 치즈, 소시지) 4개",
+        "price": "4,000원",
+        "menu_group": 12
+    }
+},
+{
+    "model": "booths.food",
+    "pk": 45,
+    "fields": {
+        "name": "음료 (복숭아, 파파야, 메론)",
+        "price": "4,000원",
+        "menu_group": 12
+    }
+},
+{
+    "model": "booths.food",
+    "pk": 46,
+    "fields": {
+        "name": "나쵸",
+        "price": "6,900원",
+        "menu_group": 13
+    }
+},
+{
+    "model": "booths.food",
+    "pk": 47,
+    "fields": {
+        "name": "닭발",
+        "price": "13,900원",
+        "menu_group": 13
+    }
+},
+{
+    "model": "booths.food",
+    "pk": 48,
+    "fields": {
+        "name": "대패삼겹살과 구운김치",
+        "price": "15,900원",
+        "menu_group": 13
+    }
+},
+{
+    "model": "booths.food",
+    "pk": 49,
+    "fields": {
+        "name": "후르츠칵테일",
+        "price": "4,900원",
+        "menu_group": 13
+    }
+},
+{
+    "model": "booths.food",
+    "pk": 50,
+    "fields": {
+        "name": "모듬소시지",
+        "price": "11,900원",
+        "menu_group": 13
+    }
+},
+{
+    "model": "booths.food",
+    "pk": 51,
+    "fields": {
+        "name": "두부김치",
+        "price": "10,000원",
+        "menu_group": 14
+    }
+},
+{
+    "model": "booths.food",
+    "pk": 52,
+    "fields": {
+        "name": "불닭 큰컵",
+        "price": "3,000원",
+        "menu_group": 14
+    }
+},
+{
+    "model": "booths.food",
+    "pk": 53,
+    "fields": {
+        "name": "콘치즈",
+        "price": "5,000원",
+        "menu_group": 14
+    }
+},
+{
+    "model": "booths.food",
+    "pk": 54,
+    "fields": {
+        "name": "나쵸",
+        "price": "7,000원",
+        "menu_group": 14
+    }
+},
+{
+    "model": "booths.food",
+    "pk": 55,
+    "fields": {
+        "name": "햄 + 계란",
+        "price": "5,000원",
+        "menu_group": 14
+    }
+},
+{
+    "model": "booths.food",
+    "pk": 56,
+    "fields": {
+        "name": "화채",
+        "price": "7,000원",
+        "menu_group": 15
+    }
+},
+{
+    "model": "booths.food",
+    "pk": 57,
+    "fields": {
+        "name": "설탕토마토",
+        "price": "5,000원",
+        "menu_group": 15
+    }
+},
+{
+    "model": "booths.food",
+    "pk": 58,
+    "fields": {
+        "name": "바나나브륄레",
+        "price": "4,000원",
+        "menu_group": 15
+    }
+},
+{
+    "model": "booths.food",
+    "pk": 59,
+    "fields": {
+        "name": "불초밥 8p",
+        "price": "10,000원",
+        "menu_group": 16
+    }
+},
+{
+    "model": "booths.food",
+    "pk": 60,
+    "fields": {
+        "name": "갈릭새우불초밥 8p",
+        "price": "10,000원",
+        "menu_group": 16
+    }
+},
+{
+    "model": "booths.food",
+    "pk": 61,
+    "fields": {
+        "name": "눈꽃치즈계란초밥 8p",
+        "price": "10,000원",
+        "menu_group": 16
+    }
+},
+{
+    "model": "booths.food",
+    "pk": 62,
+    "fields": {
+        "name": "커피",
+        "price": "4,000~6,000원",
+        "menu_group": 17
+    }
+},
+{
+    "model": "booths.food",
+    "pk": 63,
+    "fields": {
+        "name": "음료",
+        "price": "4,000~6,000원",
+        "menu_group": 17
+    }
+},
+{
+    "model": "booths.food",
+    "pk": 64,
+    "fields": {
+        "name": "빙수",
+        "price": "4,000~6,000원",
+        "menu_group": 17
+    }
+},
+{
+    "model": "booths.food",
+    "pk": 65,
+    "fields": {
+        "name": "논알콜칵테일",
+        "price": "4,000~6,000원",
+        "menu_group": 17
+    }
+},
+{
+    "model": "booths.food",
+    "pk": 66,
+    "fields": {
+        "name": "왕닭꼬치",
+        "price": "5,000원",
+        "menu_group": 18
+    }
+},
+{
+    "model": "booths.food",
+    "pk": 67,
+    "fields": {
+        "name": "양꼬치",
+        "price": "5,000원",
+        "menu_group": 18
+    }
+},
+{
+    "model": "booths.food",
+    "pk": 68,
+    "fields": {
+        "name": "염통꼬치 2개",
+        "price": "6,000원",
+        "menu_group": 18
+    }
+},
+{
+    "model": "booths.food",
+    "pk": 69,
+    "fields": {
+        "name": "츄러스",
+        "price": "4,000원",
+        "menu_group": 19
+    }
+},
+{
+    "model": "booths.food",
+    "pk": 70,
+    "fields": {
+        "name": "아츄",
+        "price": "6,500원",
+        "menu_group": 19
+    }
+},
+{
+    "model": "booths.food",
+    "pk": 71,
+    "fields": {
+        "name": "젤라또",
+        "price": "4,500원",
+        "menu_group": 19
+    }
+},
+{
+    "model": "booths.food",
+    "pk": 72,
+    "fields": {
+        "name": "원형피자 3종",
+        "price": "14,900원",
+        "menu_group": 20
+    }
+},
+{
+    "model": "booths.food",
+    "pk": 73,
+    "fields": {
+        "name": "1인피자 3종",
+        "price": "7,000원",
+        "menu_group": 20
+    }
+},
+{
+    "model": "booths.food",
+    "pk": 74,
+    "fields": {
+        "name": "케밥",
+        "price": "7,000~9,000원",
+        "menu_group": 21
+    }
+},
+{
+    "model": "booths.food",
+    "pk": 75,
+    "fields": {
+        "name": "터키아이스크림",
+        "price": "4,000원",
+        "menu_group": 21
+    }
+}
+]
