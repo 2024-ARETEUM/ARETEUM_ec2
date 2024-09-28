@@ -221,7 +221,7 @@ export const Bname = styled.div`
   padding-top: 18px;
   flex-shrink: 0;
   background: none;
-  color: var(--, #0c2557);
+  color: #0c2557;
   font-family: "Pretendard Variable";
   font-size: 17px;
   font-style: normal;
@@ -241,7 +241,7 @@ export const Time = styled.div`
   margin-left: -176px;
   margin-top: 60px;
   flex-shrink: 0;
-  color: var(--, #0c2557);
+  color: #0c2557;
   font-family: "Pretendard Variable";
   font-size: 13px;
   font-style: normal;
@@ -258,7 +258,7 @@ export const Blocation = styled.div`
   height: 20px;
   flex-shrink: 0;
   border-radius: 50px;
-  border: 1px solid var(--, #0c2557);
+  border: 1px solid #0c2557;
   background: #0c2456;
   color: #fff;
   font-family: "Pretendard Variable";
@@ -279,9 +279,9 @@ export const Btime = styled.div`
   left: 223px;
   background: none;
   display: flex;
-  color: var(--, #0c2557);
+  color: #0c2557;
   text-align: right;
-  font-family: Pretendard;
+  font-family: "Pretendard Variable";
   font-size: 13px;
   font-style: normal;
   font-weight: 600;
@@ -299,9 +299,9 @@ export const Btime2 = styled.div`
   left: 223px;
   background: none;
   display: flex;
-  color: var(--, #0c2557);
+  color: #0c2557;
   text-align: right;
-  font-family: Pretendard;
+  font-family: "Pretendard Variable";
   font-size: 13px;
   font-style: normal;
   font-weight: 600;
