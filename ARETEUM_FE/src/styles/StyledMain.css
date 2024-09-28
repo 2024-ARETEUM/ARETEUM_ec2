@@ -1,0 +1,171 @@
+.fx {
+  display: flex;
+}
+.c-po {
+  cursor: pointer;
+  pointer-events: auto;
+}
+
+.object-container {
+  pointer-events: none;
+}
+
+.clickable-wrapper {
+  pointer-events: all; /* 클릭 가능한 래퍼 */
+  cursor: pointer;
+}
+.container {
+  position: relative;
+  box-sizing: border-box;
+  margin: 0 auto;
+  width: 393px;
+  min-height: 2000px;
+  margin-top: 0px;
+  background: linear-gradient(180deg, #0c2456 0%, #0a759f 100%);
+  overflow: hidden;
+}
+.main-bg,
+.main-star {
+  position: absolute;
+  top: 170px;
+  left: -40px;
+}
+.main-star {
+  top: 130px;
+  left: 0;
+}
+
+.main-logo {
+  text-align: center;
+  margin-top: 25px;
+}
+.menu {
+  position: relative;
+  bottom: 20px;
+}
+.timetable {
+  position: relative;
+  height: 330px;
+}
+
+.timetable-illur {
+  width: 85%;
+  position: absolute;
+  top: 90px;
+  right: 70px;
+}
+
+.timetable-btn {
+  position: absolute;
+  left: 190px;
+  bottom: 200px;
+  z-index: 1000;
+}
+.timetable-som {
+  position: absolute;
+  top: 170px;
+  right: 10px;
+}
+.booth {
+  width: 100%;
+  height: 400px;
+  position: relative;
+  top: 50px;
+}
+.booth-illur {
+  position: absolute;
+  left: 130px;
+}
+.booth-btn {
+  position: absolute;
+  left: 90px;
+  bottom: 290px;
+  z-index: 10;
+}
+.booth-som {
+  position: absolute;
+  left: -20px;
+  top: 120px;
+}
+
+.intro {
+  height: 400px;
+  position: relative;
+  bottom: 50px;
+  right: 30px;
+}
+.intro-btn {
+  position: absolute;
+  bottom: 220px;
+  left: 150px;
+  z-index: 10;
+}
+.intro-som {
+  position: absolute;
+  right: -25px;
+  top: 25px;
+}
+.talk {
+  position: relative;
+  height: 400px;
+  bottom: 100px;
+}
+.talk-illur {
+  position: absolute;
+  left: 75px;
+}
+.talk-btn {
+  position: absolute;
+  bottom: 180px;
+  left: 75px;
+  z-index: 10;
+}
+.talk-som {
+  position: absolute;
+  left: 50px;
+  top: 15px;
+}
+.people {
+  position: relative;
+  height: 400px;
+  bottom: 165px;
+}
+.people-illur {
+  position: absolute;
+  left: -5px;
+}
+.people-btn {
+  position: absolute;
+  left: 255px;
+  bottom: 200px;
+
+  z-index: 10;
+}
+.people-som {
+  position: absolute;
+  right: -5px;
+  top: 160px;
+}
+.footer {
+  width: 393px;
+  height: 290px;
+  display: flex;
+  position: absolute;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  bottom: 0;
+  flex-direction: column;
+}
+@media (min-width: 393px) {
+  body {
+    /*background-color: #0c2557; */
+    display: flex;
+    justify-content: center;
+  }
+
+  .container {
+    width: 393px;
+    min-height: 100vh;
+  }
+}
